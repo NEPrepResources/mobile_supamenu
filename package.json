@@ -1,5 +1,5 @@
 {
-  "name": "supamenu_two",
+  "name": "supamenu",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
